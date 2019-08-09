@@ -1,0 +1,19 @@
+{
+  "name": "capstone",
+  "version": "1.0.0",
+  "description": "project for capstone 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winlove431/Capstone.git"
+  },
+  "author": "John Romer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winlove431/Capstone/issues"
+  },
+  "homepage": "https://github.com/winlove431/Capstone#readme"
+}
